@@ -1,0 +1,9 @@
+# Core (already present in .venv)
+torch>=2.4
+numpy>=1.26
+h5py>=3.10
+pyyaml>=6.0
+requests>=2.31
+
+# Evaluation figures
+matplotlib>=3.8
